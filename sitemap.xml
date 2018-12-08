@@ -67,9 +67,33 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://graceyu.curation.space/2018/12/02/test.html</loc>
+    <lastmod>2018-12-02</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://graceyu.curation.space/footer1.html</loc>
     <lastmod>2018-12-02</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://graceyu.curation.space/2018.html</loc>
+    <lastmod>2018-09-09</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://graceyu.curation.space/2018/12.html</loc>
+    <lastmod>2018-09-09</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://graceyu.curation.space/2018/12/02.html</loc>
+    <lastmod>2018-09-09</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
