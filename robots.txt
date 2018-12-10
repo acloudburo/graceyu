@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://graceyu.curation.space/sitemap.xml
+Sitemap: https://grace/sitemap.xml

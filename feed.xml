@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Graces Blog</title>
   <subtitle>Get to know what am I up to these days </subtitle>
-  <id>https://graceyu.curation.space</id>
-  <link href="https://graceyu.curation.space"/>
-  <link href="https://graceyu.curation.space/feed.xml" rel="self"/>
-  <updated>2018-12-02T05:23:29+00:00</updated>
+  <id>https://grace</id>
+  <link href="https://grace"/>
+  <link href="https://grace/feed.xml" rel="self"/>
   <author>
     <name>Grace</name>
   </author>
-  <entry>
-    <title>test</title>
-    <link rel="alternate" href="https://graceyu.curation.space/2018/12/02/test.html"/>
-    <id>https://graceyu.curation.space/2018/12/02/test.html</id>
-    <published>2018-12-02T05:23:29+00:00</published>
-    <updated>2018-12-09T07:25:32+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;
-        Test
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
 </feed>

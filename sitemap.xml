@@ -1,99 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://graceyu.curation.space/menu3.html</loc>
+    <loc>https://grace/blog.html</loc>
+    <lastmod>2018-12-10</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://grace/menu3.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/contact.html</loc>
+    <loc>https://grace/contact.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/footer1.html</loc>
+    <loc>https://grace/footer1.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/about.html</loc>
+    <loc>https://grace/about.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/2018/12/02/test.html</loc>
-    <lastmod>2018-12-09</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://graceyu.curation.space/partials/disqus.html</loc>
+    <loc>https://grace/partials/disqus.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/</loc>
+    <loc>https://grace/</loc>
+    <lastmod>2018-12-10</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://grace/menu4.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/menu4.html</loc>
+    <loc>https://grace/footer3.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/footer3.html</loc>
+    <loc>https://grace/footer4.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/footer4.html</loc>
+    <loc>https://grace/menu2.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/menu2.html</loc>
+    <loc>https://grace/footer2.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://graceyu.curation.space/footer2.html</loc>
+    <loc>https://grace/menu1.html</loc>
     <lastmod>2018-12-09</lastmod>
     <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://graceyu.curation.space/menu1.html</loc>
-    <lastmod>2018-12-09</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://graceyu.curation.space/2018.html</loc>
-    <lastmod>2018-12-09</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://graceyu.curation.space/2018/12.html</loc>
-    <lastmod>2018-12-09</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://graceyu.curation.space/2018/12/02.html</loc>
-    <lastmod>2018-12-09</lastmod>
-    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
